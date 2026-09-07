@@ -1,0 +1,16 @@
+# Git workflow guidance (local reference only — not part of the project)
+git/
+
+# Model artifacts
+rnn.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Cloned dataset
+Hands-On-NLP-Super-Class-Batch1/
+
+# OS
+.DS_Store
